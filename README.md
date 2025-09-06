@@ -1,4 +1,4 @@
-# Inventory Management System
+# Project-1 : Inventory Management System
 
 **Project:** Inventory Management System  
 **Domain:** JAVA mini project  
