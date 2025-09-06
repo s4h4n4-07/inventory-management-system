@@ -1,0 +1,18 @@
+# java
+*.class
+*.jar
+*.war
+target/
+build/
+out/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# node (if you later add frontend)
+node_modules/
